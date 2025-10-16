@@ -1,0 +1,6 @@
+azure-identity
+autogen-agentchat
+autogen-ext[azure,magentic-one,openai]
+autogen-ext[mcp]
+autogenstudio
+mcp[cli]
